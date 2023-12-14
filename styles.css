@@ -1,0 +1,39 @@
+.li{
+    font-weight: bold;
+  }
+  
+  .bbox {
+    width: 300px;
+    padding: 5px;
+    border: solid 1px lightgrey;
+    background-color: lilac;
+  
+  }
+  
+  body { 
+   font-size: 15px; 
+   font-family: "Times New Roman", Times, serif; 
+   
+  }
+  
+  .obox {
+    width: 325px;
+    padding: 10px;
+    border: solid 1px lightgrey;
+    margin: 7px 7px 7px 7px;
+    box-shadow: 6px 6px 12px #888;
+    background-color: lavender;
+  }
+  
+  h1{ 
+    color:purple;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .description {
+   font-style: italic; 
+  }
